@@ -9,4 +9,6 @@ Add Tilia Packages => Window -> Package Manager -> Add package from git URL...<b
 &emsp;Locomotors Climbing: io.extendreality.tilia.locomotors.climbing.unity<br>
 &emsp;Trackers PseudoBody: io.extendreality.tilia.trackers.pseudobody.unity<br>
 <br><br><br>
-Sources: <a href="https://www.youtube.com/watch?v=DAAOtAJ6YE8">FusedVR - Climbing ( Youtube Tutorial )</a>
+Sources:<br>
+<a href="https://www.youtube.com/watch?v=DAAOtAJ6YE8">Getting Started with SteamVR 2.0 and VRTK | How To Make VR Climbing ( Youtube Tutorial )</a><br>
+<a href="https://www.vrtk.io/tilia.html">VRTK Tilia</a>
